@@ -21,7 +21,7 @@ body{
 }
 
 .combo{
-    background-image: url("../Photos/Background.png");
+    background-image: url("/assets/Photos/Background.png");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
